@@ -10,6 +10,7 @@ My Personal Portfolio is a fully responsive personal portfolio website, responsi
 ![Akhila_1718 Desktop Demo](https://my-personal-portfolio-lemon-gamma.vercel.app/ "Desktop Demo")
 
 
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
