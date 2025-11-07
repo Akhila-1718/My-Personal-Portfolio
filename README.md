@@ -7,8 +7,8 @@ My Personal Portfolio is a fully responsive personal portfolio website, responsi
 
 ## Demo
 
-![Akhila_1718 Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Akhila_1718 Desktop Demo](https://my-personal-portfolio-lemon-gamma.vercel.app/ "Desktop Demo")
+
 
 ## Prerequisites
 
